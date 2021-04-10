@@ -1,3 +1,6 @@
+/*Package tarwarper ...
+This package is a warpper for 'archive/tar' to create and extract tar files.
+*/
 package tarwarper
 
 import (
